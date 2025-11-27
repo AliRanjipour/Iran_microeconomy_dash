@@ -11,7 +11,6 @@ Iran_microeconomy_dash/
 ├─ IOD_Schema_Total.csv
 ├─ requirements.txt
 └─ README.md
-'''
 ---
 
 ## Features
